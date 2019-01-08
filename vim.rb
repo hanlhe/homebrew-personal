@@ -2,8 +2,8 @@ class Vim < Formula
   desc "Vi 'workalike' with many additional features"
   homepage "https://www.vim.org/"
   # vim should only be updated every 50 releases on multiples of 50
-  url "https://github.com/vim/vim/archive/v8.1.0600.tar.gz"
-  sha256 "d956af8cc04a9ab965e54b26e5938d266df9f128ad7e983ea6da94dd4b4eda9b"
+  url "https://github.com/vim/vim/archive/v8.1.0700.tar.gz"
+  sha256 "7a41eb920cbf1301cede574808d53fc7a90b3f782567de94b858f6c7ee0fa484"
   head "https://github.com/vim/vim.git"
 
   option "with-override-system-vi", "Override system vi"
