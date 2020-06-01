@@ -1,6 +1,6 @@
 cask 'font-iosevka-etoile' do
-    version '3.0.1'
-    sha256 '182a5ef23f208206d34d0cc78a201753a570f10e86836c55801241a0a9e0d69e'
+    version '3.1.1'
+    sha256 '18e59ebe12f9ba2901050974de10c68266753f5849feb44311b5a4c26a4a2261'
   
     url "https://github.com/be5invis/Iosevka/releases/download/v#{version}/ttc-iosevka-etoile-#{version}.zip"
     appcast 'https://github.com/be5invis/Iosevka/releases.atom'
